@@ -1,0 +1,18 @@
+# inputs
+A3 high
+A2 high
+A1 high
+A0 high
+# outputs
+B high 1
+# flags
+0
+1
+0
+0
+# table;
+1111 1
+0000 0
+1011 1
+0010 0
+1010 1
